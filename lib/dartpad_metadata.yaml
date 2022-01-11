@@ -1,5 +1,5 @@
 name: Sample Code for dart-pad
 mode: flutter
 files:
-  - name: projectMain.dart
+  - name: main.dart
   - name: app.dart
